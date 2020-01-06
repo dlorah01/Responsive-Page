@@ -1,22 +1,22 @@
 # Responsive-Page
-It is a simple exercise to 
 
-##Structure
+It is a simple exercise which allowed me to apply some basic responsive concepts and first mobile pattern in a simple web page. You are free to download the project if you want to practice or improve some of the concepts of a simple web page. This page uses the three main technologies: `HTML`, `CSS` and `JS`.
+
+## Structure
+This project is composed of a main file, with three folders: The first and second one are the CSS folder and JS folder, respectively, and the last one contains all the images used in the page.
 ```
 project
 │   README.md
-│   file001.txt    
+│   index.html    
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───css
+│   main.css
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───js
+│   main.js
+│   
+└───images
+│   bg.jpg
+│   food.jpg
+
 ```
