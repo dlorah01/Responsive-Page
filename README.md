@@ -1,5 +1,7 @@
 # Responsive-Page
 It is a simple exercise to 
+
+##Structure
 ```
 project
 │   README.md
